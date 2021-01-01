@@ -1,0 +1,37 @@
+
+.buttonA{
+	background: none;
+	color: black;
+	width: 240px;
+	height: 40px;	
+	font-size: 25px;
+}
+.buttonA:hover {
+  background: LightBlue;
+  
+}
+
+.buttonP{
+
+	background: none;
+	color: black;
+	width: 240px;
+	height: 40px;	
+	font-size: 25px;
+	
+}
+.buttonP:hover {
+  background: LightBlue;
+}
+
+.buttonD{
+	background: none;
+	color: black;
+	width: 240px;
+	height: 40px;	
+	font-size: 25px;
+}
+.buttonD:hover {
+  background: LightBlue;
+}
+
